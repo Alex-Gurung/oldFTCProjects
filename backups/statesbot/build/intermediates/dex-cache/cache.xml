@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81c82e1248666e3dba585aa2044cb6f367ec6066">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-4c0901d6c897f2580ba3158d639697439b71370a.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-a75c4dd86a6320fdbc62574a8d5b0645c560453b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-679c1eeafcf9b71bc408ca68a7d4189b329bc0e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="141c9410c57da655ddebd85f577cc6b51811c525">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-62b7b97feabf68f15325120230567c18d915f6e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e813cd0f3937ee1d0b272907ce672b7f4ad2ea2">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-b58ae8a8d9fa743794b2e94c3a7a62a721883645.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ad4adcdf8eb6ff2b3b4fe9f1d676f099db621d60">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\statesbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-c0bc80711f7884f4c380ec1c896752fb52a0d0a7.jar" />
+    </item>
+
+</items>

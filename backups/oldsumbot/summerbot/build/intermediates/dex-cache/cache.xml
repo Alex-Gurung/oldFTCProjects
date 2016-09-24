@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0666d81ab6701ba68f81b170cbdb78ba434eb00b">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-a7c2cc5b3f00566a5380b50e85c5b8983fba7608.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-224ac1d17c8f309285227c221027f32e8a3fd6ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e19ebc3f612058d1ce56c27e0867f609eb73edfa">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-429fccce7d090c0bfde9ed1b24cd0ed6af43999b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b3fe4efe8fad907294d5332bf26afe87764694f">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-745dedb8f466af481a38394d5496667f2b91884e.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-f013e57e0e3bc034ccc12a32d42ea522c1ac0931.jar" />
+    </item>
+    <item
+        jar="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="C:\Users\cwu\Documents\GitHub\ftc_robotcontrol\summerbot\summerbot\FtcRobotController\build\intermediates\pre-dexed\debug\classes-1af979e5919ac30ec649c76a3a8b452b5e2187c2.jar" />
+    </item>
+
+</items>
