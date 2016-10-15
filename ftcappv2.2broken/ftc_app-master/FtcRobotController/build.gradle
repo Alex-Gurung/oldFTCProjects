@@ -1,0 +1,32 @@
+//
+// build.gradle in FtcRobotController
+//
+apply plugin: 'com.android.library'
+
+dependencies{
+    compile project(':ftc-visionlib')
+    compile project(':opencv-java')
+}
+
+android {
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 19
+    }
+
+    compileSdkVersion 23
+    buildToolsVersion '23.0.3'
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+repositories {
+    flatDir {
+        dirs '../libs'
+    }
+}
+
+apply from: 'build.release.gradle'
